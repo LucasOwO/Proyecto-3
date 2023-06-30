@@ -1,0 +1,19 @@
+{
+    "colaboradores" : {
+        "001" : {
+            "id": "1",
+            "nombre" : "Purina",
+            "año" : "6 años",
+            "descripcion" : "Comida sabrosa y nutritiva para tu mascota."
+            
+        },
+        "002" : {
+            "id" : "2",
+            "nombre" : "Champion",
+            "año" : "3 años",
+            "descripcion" : "Alimentos saludables para perros."
+            
+        }
+
+    }
+}
